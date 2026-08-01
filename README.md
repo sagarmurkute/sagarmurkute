@@ -1,30 +1,104 @@
---><h1 align="center">Hi 👋, I'm Sagar Murkute</h1>
-<h3 align="center">Full-Stack Developer • Building products that solve real-world problems.</h3>
+<h1 align="center">Hi 👋, I'm Sagar Murkute</h1>
 
-- 🚀 Building [Vehiledger - Intelligent Vehicle Operating System](Coming soon!)
+<h3 align="center">
+Full Stack Developer building modern Web, Mobile & AI applications.
+</h3>
 
-- 🌱 I’m currently learning **System Design, Cloud Architecture (AWS), Microservices, CI/CD, AI Engineering, and Scalable Software Development.**
-
-- 📄 Developing [CVForge - AI Resume Builder](Coming soon!)
-
-- 📱 Creating [PyPocket — Mobile Python Learning Platform](Coming soon!)
-
-- 👨‍💻 All of my projects are available at [Coming Soon — Building something exceptional.](Coming Soon — Building something exceptional.)
-
-- 📝 I regularly write articles on [Coming soon](Coming soon)
-
-- 💬 Ask me about **Startups, Full-Stack Development, SaaS, AI, Product Design, and Building from Scratch.**
-
-- 📫 How to reach me **sagarmurkute8454@gmail.com**
-
-- 📄 Know about my experiences [Coming soon](Coming soon)
-
-- ⚡ Fun fact **I don't just build projects—I build startups.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+I enjoy turning ideas into scalable software—from concept to deployment.
+My focus is on creating fast, reliable, and user-friendly digital products
+using modern technologies.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
+## 🚀 Currently Building
+
+### 🔹 VehiLedger
+An intelligent vehicle operating system for transport businesses.
+
+### 🔹 Vyb
+A next-generation social platform focused on authentic digital experiences.
+
+### 🔹 MeritMap
+A data-driven platform helping students explore engineering colleges using MHT CET cutoff analytics.
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+### Mobile
+- Flutter
+- Dart
+
+### Backend
+- Node.js
+- Express.js
+- PostgreSQL
+- Firebase
+- Supabase
+
+### AI
+- AI Integrations
+- Prompt Engineering
+
+### Tools
+- Git
+- GitHub
+- Docker
+- Figma
+- VS Code
+
+---
+
+## 🌱 Currently Exploring
+
+- System Design
+- Cloud Architecture (AWS)
+- Microservices
+- CI/CD
+- AI Engineering
+- Scalable Software Architecture
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| **Vyb** | Modern social media platform |
+| **MeritMap** | College prediction & cutoff analysis platform |
+| **VehiLedger** | Intelligent transport management software |
+| **Portfolio** | Personal developer portfolio |
+
+---
+
+## 🎯 What I Love Building
+
+- SaaS Products
+- AI Applications
+- Full Stack Platforms
+- Mobile Apps
+- Developer Tools
+- Startup MVPs
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email**
+
+**sagarmurkute8454@gmail.com**
+
+---
+
+> *I don't just build projects—I build products with purpose.*
